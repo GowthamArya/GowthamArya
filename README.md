@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/gowthamarya" target="blank"><img src="https://img.shields.io/twitter/follow/gowthamarya?logo=twitter&style=for-the-badge" alt="gowthamarya" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GowthamArya](https://github.com/GowthamArya)
 
-- 💬 Ask me about **JavaScript,Bootstrap**
+- 💬 Ask me about **JavaScript,React,Mongo,Express & NodeJS**
 
 - 📫 How to reach me **gowtham.arya999@gmail.com**
 
